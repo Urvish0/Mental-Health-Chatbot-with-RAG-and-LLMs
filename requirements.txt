@@ -1,0 +1,9 @@
+langsmith
+langchain
+langchain_community
+langchain-groq
+groq 
+streamlit
+langchain_huggingface
+cassio
+streamlit
